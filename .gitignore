@@ -1,0 +1,20 @@
+# Compiled executables
+*.exe
+*.dll
+*.o
+
+# IDE settings
+.vscode/
+
+# Model files
+models/*.onnx
+
+# Video files
+videos/*.mp4
+videos/*.avi
+
+# Test images
+opencv_test.png
+
+# Build files
+build/
